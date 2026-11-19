@@ -16,7 +16,7 @@ def show_calendar():
     """)
 
     if (choose_year == "1") and (choose_month == "1"):
-        print(TextCalendar(2030, 1))
+        print(TextCalendar(2030, 1)) # ошибкаы
 
     return 0
 
